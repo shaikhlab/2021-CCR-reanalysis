@@ -1,6 +1,10 @@
 # shaikh-sears-clin-cancer-research-2021
 This repository is intended to served as a resource with supporting statistical code and processed microbiome data from Shaikh et al. (2021, *Clinical Cancer Research*) "A uniform computational approach improved on existing pipelines to reveal microbiome biomarkers of non-response to immune checkpoint inhibitors."
 
+# Full citation: Shaikh FY, White JR, Gills JJ, Hakozaki T, Richard C, Routy B, Okuma Y, Usyk M, Pandey A, Weber JS, Ahn J, Lipson EJ, Naidoo J, Pardoll DM, Sears CL. A Uniform Computational Approach Improved on Existing Pipelines to Reveal Microbiome Biomarkers of Nonresponse to Immune Checkpoint Inhibitors. Clin Cancer Res. 2021 May 1;27(9):2571-2583. doi: 10.1158/1078-0432.CCR-20-4834. Epub 2021 Feb 16. PMID: 33593881; PMCID: PMC9053858.
+
+# This is a copy of the original github directory link in the manuscript at https://github.com/resphera-jrwhite/shaikh-sears-clin-cancer-research-2021
+
 * Top-level directory: `shaikh-sears-clin-cancer-research-2021/`
 ```
 ./shaikh-sears-clin-cancer-research-2021/
